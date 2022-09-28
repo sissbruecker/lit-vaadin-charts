@@ -1,0 +1,15 @@
+{
+  "name": "@wcd/null.litts-l8lryxcf",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 4lgKTOekEHvB7uXnHFN5 --open"
+  },
+  "dependencies": {
+    "@vaadin/dialog": "23.2.2",
+    "@vaadin/charts": "23.2.2"
+  }
+}
